@@ -1,6 +1,6 @@
 Interview Record
-Người thực hiện phỏng vấn (Interviewer): Tuấn Anh
-Mã người tham gia (Interviewee): Teo (học viên online, đang học React Hooks)
+Người thực hiện phỏng vấn (Interviewer): Tuấn Anh (2A202601813)
+Mã người tham gia (Interviewee): Teo( 2A202601880) (học viên online, đang học React Hooks)
 Đúng tiêu chí tuyển: ☑ Có / ☐ Không
 Thời gian phỏng vấn: ~15 phút
 Địa điểm / Nền tảng: Trực tiếp / voice
